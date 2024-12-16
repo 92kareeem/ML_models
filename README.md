@@ -1,4 +1,4 @@
-ML Models:
+ML Disease Pred, Models, Datasets
 
 1. Medical Condition Prediction
 https://www.kaggle.com/datasets/marius2303/medical-condition-prediction-dataset
